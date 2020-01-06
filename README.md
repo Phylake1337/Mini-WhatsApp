@@ -1,6 +1,10 @@
 # Mini-WhatsApp
 Simple console-based chat  application coded in python, great example of an intermediate project to practice OOP techniques like inheritance, polymorphism, composition, abstraction ,and encapsulation.
 
+Images for application in action.
+![Image of HomePage](https://github.com/Phylake1337/Mini-WhatsApp/blob/master/Homepage.png)
+![Image of Chat](https://github.com/Phylake1337/Mini-WhatsApp/blob/master/Chat.png)
+
 What the application could do?
 1. Login / register with mobile number and password.
 2. Logout / Delete your account permently.
