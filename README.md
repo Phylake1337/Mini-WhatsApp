@@ -15,6 +15,6 @@ What the application could do?
 6. In case of closing the APP, all chats and user profiles are stored for later use.
 
 - How to try it?
-  -Download the repo on your machine.
-  -Open cmd then navigate till you open Mini-WhatsApp folder.
-  -Write ```python console.py``` command.
+   -Download the repo on your machine.
+   -Open cmd then navigate till you open Mini-WhatsApp folder.
+   -Write ```python console.py``` command.
